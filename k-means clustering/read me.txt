@@ -1,0 +1,2 @@
+Entire program is written in vs code 
+open vscode and run it !!
